@@ -1,3 +1,4 @@
+```
 # fns-app
 
 FNS is a decentralized name service based on the Filecoin EVM. It resolves Metadata into easy-to-read xxx.fil names. fns.fil subdomains (such as alice.fns.fil) are distinguished from other domains by non-transferable SBT to ensure identity uniqueness. 
@@ -21,7 +22,7 @@ pnpm install --shamefully-hoist
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on `http://localhost:3000`
 
 ```bash
 npm run dev
@@ -40,5 +41,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
