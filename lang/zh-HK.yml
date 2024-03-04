@@ -1,0 +1,99 @@
+home:
+  start1: 你的Filecoin身份
+  start2: 就從這裏開始。
+  desc1: 為您在Filecoin生態系統中的旅程
+  desc2: 確保您的.fil域名。
+  desc3: 更多工具
+  partnership: 生態系統夥伴關係
+  desc4: 來發展您的業務
+  desc5: 我們以域名著稱
+  desc6: 但也要看其他必要條件
+  desc7: 以使您的業務
+  desc8: 在網上更近一步
+  coming: 即將上線
+  intro1title: 雲存儲
+  intro1desc: OpenGate 為至關重要的公共數據提供了基礎，如開放獲取成功的科學依據、創意共享媒體、歷史檔案、保護等。
+  intro2title: 專業電子郵件
+  intro2desc: 用一個與您的域名相匹配的電子郵件向客戶暫時您的專業。今天就獲取專業的電子郵件
+  intro3title: 網站 + 營銷
+  intro3desc: 創建一個專業的網站，使您的業務更進一步，由於內置的工具，如SEO和電子郵件營銷。不需要信用卡，免費開始。
+  search: 搜索你的域名
+menu:
+  search: 搜索
+  fav: 收藏
+  faq: FAQ
+  domain: 我的域名
+  account: 我的帳號
+  docs: 檔案
+  market: FNS市場
+  referral: Referral
+tip:
+  searchEmpty: 搜索內容不能為空
+  searchSpecialChar: 搜索內容不能包含特殊字符
+  submit: 已提交，等待1-2分鐘後生效！
+  addFav: 收藏成功 ！
+  removeFav: 取消收藏成功 ！
+  copy: 複製成功 !
+  copyLink: 分享鏈接已複製！
+error:
+  submit: 提交失敗 !
+  register: 註冊失敗 !
+  record: 獲取反向記錄錯誤 !
+  nogas: 帳戶中沒有Gas費 !
+  network: 網絡錯誤 !
+hint:
+  search: 輸入地址或域名
+  association: 關聯字串
+result:
+  loading: 加載...
+  explorer: 在瀏覽器上查看
+  empty: 此地址未注册域名
+  registrant: 注册人
+  parent: 父域名
+  expires: 到期
+  available: 可用
+  unavailable: 不可用
+  submitting: 提交...
+  notSet: 未設置
+  submit: 提交
+  reset: 重設
+  controller: 管理員
+  resolve: 解析
+  expireDate: 過期日期
+  content: 內容
+  cancel: 取消
+  domain: 域名
+  name: 名稱
+  date: 日期
+  reclaim: 回收
+domain:
+  pleaseSet: 請設置該域名關聯的內容
+  content: 關聯內容
+  unavailable: 該域名現在不可用
+  register: 立即註冊
+  register2: 註冊
+  extend: 擴展
+  year: 年
+  years: 年數
+  increase: 延長註冊時間，避免每年支付gas!'
+  address: 地址
+  pleaseSetAddress: 請設置與測域名關聯的地址
+  base: 基礎
+  text: 文本
+  resolver: 解析器
+wallet:
+  connect: 連接錢包
+  disconnect: 斷開連接
+fns:
+  primary: 主要 FNS 名稱 (反向紀錄)
+  register: 您可以註冊更多的名字
+  register2: 你可以註冊一個名字
+  usePrimary: 作为主名使用
+fav:
+  handle: 辦理
+  detail: 詳情
+  remove: 移除 ?
+referral:
+  tip: 與您的朋友分享 FNS
+  id: 邀請 ID
+  share: 分享

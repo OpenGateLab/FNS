@@ -1,0 +1,99 @@
+home:
+  start1: Your Filecoin Identity
+  start2: Starts Here.
+  desc1: "Secure your .fil domain for your journey "
+  desc2: through  the Filecoin ecosystem.
+  desc3: More Tools To Grow
+  partnership: ECOSYSTEM PARTNERSHIP
+  desc4: Your Business
+  desc5: We're known for domains,but check
+  desc6: out other essentials
+  desc7: to take your
+  desc8: business further online
+  coming: Coming Soon
+  intro1title: Cloud Storage
+  intro1desc: OpenGate provides the foundation for critically important public data,such as open access success scientific data,creative commons media,historical archives,preservation,and more.
+  intro2title: Professional Email
+  intro2desc: Show customers your's a pro with an email address that matches your domain. Get professional Email today
+  intro3title: Websites + Marketing
+  intro3desc: Create a professional website that'll take your business further,thanks to built-in tools like SEO and email marketing.Get started for free,no credit card required.
+  search: Search for a name
+menu:
+  search: Search
+  fav: Favourite
+  faq: FAQ
+  domain: My Domains
+  account: My Account
+  docs: Docs
+  market: FNS Market place
+  referral: Referral
+tip:
+  searchEmpty: The search content cannot be empty !
+  searchSpecialChar: The search content cannot contain special characters !
+  submit: Submitted, waiting for 1 - 2 minutes to take effect !
+  addFav: Add favorites successfully
+  removeFav: Remove favorites successfully
+  copy: Copy succeeded !
+  copyLink: The sharing link has been copied
+error:
+  submit: Submit Error !
+  register: Register Error !
+  record: Get reverse record error !
+  nogas: No gas fee in the account !
+  network: Network Error !
+hint:
+  search: Input address or domain
+  association: Association String
+result:
+  loading: Loading...
+  explorer: view on nft market
+  empty: No domain name registered at this address
+  registrant: Registrant
+  parent: Parent
+  expires: Expires
+  available: Available
+  unavailable: Unavailable
+  submitting: Submitting...
+  notSet: Not set
+  submit: Submit
+  reset: Reset
+  controller: Controller
+  resolve: Resolve to
+  expireDate: Expiration date
+  content: Content
+  cancel: Cancel
+  domain: Domain
+  name: Name
+  date: Date
+  reclaim: Reclaim
+domain:
+  pleaseSet: Please set the content associated with this domain name
+  content: Association content
+  unavailable: This domain is unavailable now
+  register: Register Now
+  register2: Register
+  extend: Extend
+  year: Year
+  years: Years
+  increase: Increase registration period to avoid paying gas every year !'
+  address: Address
+  pleaseSetAddress: Please set the address associated with this domain name
+  base: Base
+  text: Text
+  resolver: Resolver
+wallet:
+  connect: Connect Wallet
+  disconnect: Disconnect
+fns:
+  primary: Primary FNS Name (reverse record)
+  register: You can register more names
+  register2: You can register a name
+  usePrimary: Use as primary name
+fav:
+  handle: Handle
+  detail: Detail
+  remove: Remove ?
+referral:
+  tip: Share FNS with your Friends
+  id: Referral ID
+  share: Share
